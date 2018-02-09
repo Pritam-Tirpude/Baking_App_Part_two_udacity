@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cake Maker</string>
+    <!-- Empty text label -->
+    <string name="empty_text_label">No Internet Connection</string>
+    <string name="no_recipes_found">No Recipes Found</string>
+    <string name="appwidget_text">RECIPE INGREDIENTS WILL APPEAR HERE AFTER LAUNCHING &quot;BAKING APP&quot;</string>
+    <string name="add_widget">Add widget</string>
+</resources>

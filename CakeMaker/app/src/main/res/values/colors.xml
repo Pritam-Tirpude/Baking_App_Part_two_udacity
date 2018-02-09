@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9E9E9E</color>
+    <color name="colorPrimaryDark">#616161</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Toolbar Title Label Color -->
+    <color name="toolbar_title_color">#FFFFFF</color>
+
+    <!-- Activity background color -->
+    <color name="background_color">#ff6d00</color>
+
+    <!-- Recipe details text color-->
+    <color name="recipe_detail_text_color">#212121</color>
+
+    <!-- Recipe title color-->
+    <color name="recipe_title_color">#FFFFFF</color>
+</resources>
